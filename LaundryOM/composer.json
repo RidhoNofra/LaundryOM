@@ -1,0 +1,9 @@
+{
+    "name": "kelompok/laundry",
+    "autoload": {
+        "psr-4": {
+            "Laundry\\": "src/"
+        }
+    },
+    "require": {}
+}
